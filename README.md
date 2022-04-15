@@ -15,3 +15,4 @@ For example, if we created a variable const firstName = "Ada",
 we could find out how long the string Ada is by using the firstName.length property.
 
 Use the .length property to count the number of characters in the lastName variable and assign it to lastNameLength.
+
