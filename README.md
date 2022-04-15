@@ -19,3 +19,5 @@ Use the .length property to count the number of characters in the lastName varia
 You should not change the variable declarations in the // Setup section.
 
 lastNameLength should be equal to eight.
+
+You should be getting the length of lastName by using .length like this: lastName.length.
