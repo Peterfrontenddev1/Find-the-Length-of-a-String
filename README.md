@@ -23,3 +23,4 @@ lastNameLength should be equal to eight.
 You should be getting the length of lastName by using .length like this: lastName.length.
 
 // Setup
+const lastName = "Lovelace";
