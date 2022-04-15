@@ -9,3 +9,4 @@ You can find the length of a String value by writing
 The value 10 would be displayed in the console.
 
 Note that the space character between "Alan" and "Peter" is also counted.
+For example, if we created a variable const firstName = "Ada", 
