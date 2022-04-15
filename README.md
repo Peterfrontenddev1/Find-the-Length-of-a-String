@@ -27,4 +27,5 @@ You should be getting the length of lastName by using .length like this: lastNam
 const lastName = "Lovelace";
 
 // Only change code below this line
+
 lastNameLength = lastName;
